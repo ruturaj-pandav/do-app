@@ -5,9 +5,12 @@
 /.pnp
 .pnp.js
 
+
+
+
 # testing
 /coverage
-git remote add origin https://github.com/ruturaj-pandav/do-app.git
+# git remote add origin https://github.com/ruturaj-pandav/do-app.git
 # production
 /build
 

@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Features() {
   return (
-    <div>Features</div>
+    <div>there are new features</div>
   )
 }
